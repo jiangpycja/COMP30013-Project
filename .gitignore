@@ -1,0 +1,7 @@
+# Generated dataset artifacts
+general_queries.csv
+general_ground_truth.csv
+
+# Python cache
+__pycache__/
+*.pyc
